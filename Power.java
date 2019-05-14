@@ -1,8 +1,4 @@
 import java.math.*;
-
-/* double base, exponent; //inputs
- * 
- */
 public class Power {	
 	 static double powerF(double a, int b){
 		double product = 1;
@@ -19,4 +15,3 @@ public class Power {
 		System.out.println("Math.pow(): "+Math.pow(2.5, 3));		
 	}	
 }
-
